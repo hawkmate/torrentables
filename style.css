@@ -1,7 +1,8 @@
-.gcse-search{color:black;}
+.gcse-searchbox-only{color:black;}
 *{
 	color: white;
 	font-family: 'Raleway', sans-serif;
+width:360px;
 }
 html {
   scroll-behavior: smooth;
